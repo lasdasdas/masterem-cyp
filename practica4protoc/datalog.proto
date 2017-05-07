@@ -1,0 +1,21 @@
+syntax="proto3";
+
+package station;
+
+message Station {
+  string town = 1;
+  int32 postal = 2;
+  string clouds= 3;
+
+
+  message SensorData {
+    float number = 1;
+    int32 cat = 2;
+  }
+
+  repeated SensorData data = 4;
+}
+
+message DataLog {
+  repeated Station station = 1;
+}
