@@ -1,0 +1,9 @@
+2017-05-16 18:33:04,909 - __main__ - INFO - Requested value to1
+2017-05-16 18:38:45,609 - __main__ - INFO - Requested value to 1
+2017-05-16 18:38:45,610 - __main__ - ERROR - Porque si
+2017-05-16 18:40:49,050 - __main__ - INFO - Requested value to 1
+2017-05-16 18:40:49,051 - __main__ - ERROR - Porque si
+2017-05-16 18:41:13,669 - __main__ - INFO - Requested value to 0
+2017-05-16 18:41:13,670 - __main__ - ERROR - Porque si
+2017-05-16 18:41:19,795 - __main__ - INFO - Requested value to 0
+2017-05-16 18:41:19,796 - __main__ - ERROR - Porque si
